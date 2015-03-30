@@ -3,6 +3,7 @@ layout: post
 title: "Ext2 to Ext4 without reformatting"
 date: 2015-03-30
 ---
+## Ext2 to Ext4 without reformatting
 
 1. log in as root
 
